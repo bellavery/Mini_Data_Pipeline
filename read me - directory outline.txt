@@ -1,0 +1,3 @@
+project plan.txt - contains the project outline.
+
+sending_an_email.py - contain python code to send an email

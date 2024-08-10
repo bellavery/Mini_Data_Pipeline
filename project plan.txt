@@ -1,0 +1,13 @@
+8/10/2024
+==========================================================================
+Mini Data Pipeline Plan:
+
+Use python to 
+	(1) send an email 
+	(2) query an API 
+	(3) query an API and sent the results in an email.
+
+Questions to address:
+What API will be queried?
+Can I use the Windows task manager to automate running the python script?
+Can I email myself the weather everyday?
